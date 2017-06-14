@@ -1,0 +1,11 @@
+{
+  "name": "traviscitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "test":"mocha",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
