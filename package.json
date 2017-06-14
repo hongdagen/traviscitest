@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "test":"mocha",
+  "scripts":{
+    "test":"mocha ./test/add.test.js"
+  },
   "dependencies": {
     "chai": "^4.0.2",
     "mocha": "^3.4.2"
